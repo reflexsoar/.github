@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![ReflexSOAR Logo](logo.png)](https://reflexsoar.com)
+<a href="https://reflexsoar.com"><img src="logo.png" height="200" width="200"></a>
 
 ReflexSOAR
 

@@ -6,9 +6,13 @@ ReflexSOAR
 
 </h1><h4 align="center">
 
-[ReflexSOAR](https://reflexsoar.io) is an security orchestration, automation and incident response platform aimed at making Security Operations easy for everyone.
+[ReflexSOAR](https://reflexsoar.io) is a security orchestration, automation and incident response platform aimed at making Security Operations easy for everyone.
 
-[_Development_](https://github.com/frikky/Shuffle/blob/master/.github/CONTRIBUTING.md) 
+[Roadmap](https://github.com/orgs/reflexsoar/projects/4) | 
+[Development](https://github.com/frikky/Shuffle/blob/master/.github/CONTRIBUTING.md) |
+[Documentation](https://docs.reflexsoar.com)
+
+
 
 Follow us on Twitter at [@reflexsoar](https://twitter.com/reflexsoar).
 

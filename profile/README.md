@@ -11,7 +11,7 @@ ReflexSOAR
 [Roadmap](https://github.com/orgs/reflexsoar/projects/4) | 
 [Development](https://github.com/frikky/Shuffle/blob/master/.github/CONTRIBUTING.md) |
 [Documentation](https://docs.reflexsoar.com)
-[Discord] (https://discord.gg/ZuNFAFHs4y)
+[Discord](https://discord.gg/ZuNFAFHs4y)
 
 
 
